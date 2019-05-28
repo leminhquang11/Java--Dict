@@ -1,0 +1,7 @@
+dictionaryOut.txt
+dictionary2.txt
+dictionary3.txt
+myDic.txt
+myDic2.txt
+quang.txt
+moi.txt
